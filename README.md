@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernando-karaka
-- 👀 I’m interested in information security, database and machine learning
-- 🌱 I’m currently learning 
+- 👀 I’m interested in front-end and cybersecurity
+- 🌱 I’m currently learning Node.js and JavaScript
 - 📫 How to reach me - fernando@karakanian.com.br
 
 <!---
